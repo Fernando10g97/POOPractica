@@ -7,3 +7,4 @@ C:\Users\Fernando\source\repos\github\github\obj\Debug\github.csproj.GenerateRes
 C:\Users\Fernando\source\repos\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
 C:\Users\Fernando\source\repos\github\github\obj\Debug\github.exe
 C:\Users\Fernando\source\repos\github\github\obj\Debug\github.pdb
+C:\Users\Fernando\source\repos\github\github\obj\Debug\github.Form1.resources
