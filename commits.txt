@@ -1,0 +1,25 @@
+commit 2295e023f0e5d28572aff638fc5b60e9face4ff9
+
+Author: fernando10g97 <fernando10g97@gmail.com>
+Date:   Tue Dec 18 07:59:51 2018 -
+0500
+
+    se agrego un mensaje
+
+
+commit c26ba15dd4b7fef9e0bda128efcbcd503363cb82
+
+Author: fernando10g97 <fernando10g97@gmail.com>
+Date:   Tue Dec 18 07:58:44 2018 -
+0500
+
+    se agrego un formulario
+
+
+commit 7c3e7963c64312aef98e9f1fa99dcbcfa57dafdc
+
+Author: fernando10g97 <fernando10g97@gmail.com>
+Date:   Tue Dec 18 07:54:20 2018 -
+0500
+
+    inicio 1
